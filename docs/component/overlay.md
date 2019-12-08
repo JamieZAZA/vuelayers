@@ -48,7 +48,7 @@ Example below shows how to add custom content on to the map.
         zoom: 2,
         center: [0, 0],
         rotation: 0,
-        overlayCoordinate: [30, 30],
+        overlayCoordinate: [120, 30],
       }
     },
   }
